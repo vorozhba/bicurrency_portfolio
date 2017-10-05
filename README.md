@@ -5,3 +5,6 @@
 
 ### Запуск:
 В командной строке: `ruby bicurrency_portfolio.rb`
+
+### Пример:
+![Окно программы](https://github.com/vorozhba/bicurrency_portfolio/blob/master/figures/example.png)
